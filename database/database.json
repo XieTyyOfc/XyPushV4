@@ -1,0 +1,22 @@
+{
+  "transaksi": {},
+  "allcommand": {},
+  "dashboard": {},
+  "users": [],
+  "chats": {},
+  "banned": {},
+  "antispam": {},
+  "database": {},
+  "game": {},
+  "data": {},
+  "settings": {},
+  "others": {},
+  "sticker": {},
+  "anonymous": {},
+  "isGrupEnabled": false,
+  "isKontakEnabled": false,
+  "hfilter": {
+    "contacts": [],
+    "groups": []
+  }
+}
